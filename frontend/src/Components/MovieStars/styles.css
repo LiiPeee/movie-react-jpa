@@ -1,0 +1,10 @@
+.lfmovie-stars-container {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lfmovie-stars-container svg {
+    width: 22px;
+    height: auto;
+}
